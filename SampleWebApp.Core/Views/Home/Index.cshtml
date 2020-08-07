@@ -1,0 +1,19 @@
+﻿<fieldset>
+   <legend>Basic usage</legend>
+    <ul>
+        <li>
+            <a asp-action="FileReport" asp-controller="Home">Create a file report</a>
+        </li>
+    </ul>
+</fieldset>
+
+<fieldset style="margin-top: 15px">
+   <legend>Upload an xlsx file</legend>
+   <form method="post"
+         asp-action="FileUpload"
+         asp-controller="Home"
+         enctype="multipart/form-data">
+      <input type="file" name="file"  />
+      <input type="submit" value="Upload" />
+   </form>
+</fieldset>

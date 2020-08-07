@@ -1,0 +1,11 @@
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/bin/Debug/netcoreapp2.0/SampleWebApp.Core.deps.json
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/bin/Debug/netcoreapp2.0/SampleWebApp.Core.runtimeconfig.json
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/bin/Debug/netcoreapp2.0/SampleWebApp.Core.runtimeconfig.dev.json
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/bin/Debug/netcoreapp2.0/SampleWebApp.Core.dll
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/bin/Debug/netcoreapp2.0/SampleWebApp.Core.pdb
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/obj/Debug/netcoreapp2.0/SampleWebApp.Core.csprojAssemblyReference.cache
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/obj/Debug/netcoreapp2.0/SampleWebApp.Core.csproj.CoreCompileInputs.cache
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/obj/Debug/netcoreapp2.0/SampleWebApp.Core.AssemblyInfoInputs.cache
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/obj/Debug/netcoreapp2.0/SampleWebApp.Core.AssemblyInfo.cs
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/obj/Debug/netcoreapp2.0/SampleWebApp.Core.dll
+/repos/Personal/Projects/FileStreams/SampleWebApp.Core/obj/Debug/netcoreapp2.0/SampleWebApp.Core.pdb
